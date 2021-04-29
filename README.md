@@ -11,4 +11,10 @@
 
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;"></img> **Visual Studio Code - (https://code.visualstudio.com/Download)**
 
-:information_source: **Um perfil no WhatsApp que precisará ser aberto no WhatsApp Web - (https://web.whatsapp.com/)**
+🔗 **Um perfil no WhatsApp que precisará ser aberto no WhatsApp Web - (https://web.whatsapp.com/)**
+
+## :information_source: **Para criar o seu próprio Bot, acesse o vídeo do canal Dev Aprender (https://www.youtube.com/watch?v=_ZDBVeqyK6g&ab_channel=DevAprender)**
+
+<p align="center">
+  <img src="/V.png">
+  </p>
