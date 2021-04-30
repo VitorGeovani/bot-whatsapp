@@ -9,9 +9,9 @@
 
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;"> **Python - (https://www.python.org/downloads/)**
 
-<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;"></img> **Visual Studio Code - (https://code.visualstudio.com/Download)**
+<img align="center" alt="icon-js" height="30" width="40" src="visual-studio-code-logo-svg-vector.svg" style="max-width:100%;"></img> **Visual Studio Code - (https://code.visualstudio.com/Download)**
 
-🔗 **Um perfil no WhatsApp que precisará ser aberto no WhatsApp Web - (https://web.whatsapp.com/)**
+<img align="center" alt="icon-js" height="30" width="40" src="whatsapp.png" style="max-width:100%;"></img> **Um perfil no WhatsApp que precisará ser aberto no WhatsApp Web - (https://web.whatsapp.com/)**
 
 ### :information_source: **Para criar o seu próprio Bot, acesse o vídeo do canal Dev Aprender (https://www.youtube.com/watch?v=_ZDBVeqyK6g&ab_channel=DevAprender)**
 
